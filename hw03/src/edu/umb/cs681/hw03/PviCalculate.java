@@ -4,7 +4,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.stream.Collectors;
 
-public class Main {
+public class PviCalculate{
     public static void main(String[] args) throws Exception {
 
         var path = Paths.get("src/edu/umb/cs681/hw03/pvi_data.csv");
