@@ -1,4 +1,4 @@
-package edu.umb.cs681.hw02;
+package edu.umb.cs681.hw01;
 
 import java.util.ArrayList;
 import java.util.stream.Collectors;
