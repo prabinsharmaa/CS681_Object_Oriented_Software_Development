@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "hw03/src/edu/umb/cs681/hw03",
+        "hw01/src",
+        "hw04/src/edu/umb/cs681/hw05"
+    ]
+}
