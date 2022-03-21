@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project name="hw03" basedir="." default="clean">
+<project name="hw02" basedir="." default="clean">
     <property environment="env" />
     <echo message="JUNIT: ${env.JUNIT_HOME}" />
     <echo message="ANT_HOME: ${env.ANT_HOME}" />
